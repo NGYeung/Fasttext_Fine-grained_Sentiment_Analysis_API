@@ -1,4 +1,4 @@
-# Sentiment Analysis API
+# Sentiment Analysis API for E-Commerce Fashion Reviews
 
 ## Overview
 
